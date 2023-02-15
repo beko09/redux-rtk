@@ -33,7 +33,7 @@ Let's install the project locally and run it :running_man:.
 1. First Clone the repo
 
    ```sh
-   git clone https://github.com/beko09/redux&rtk.git
+   git clone git@github.com:beko09/redux-rtk.git
    ```
 
 2. Entering a folder redux-demo
